@@ -8,9 +8,9 @@ model made by using supervised learning (x -> y) to repeatedly predict the next 
 For example , say 
 
 $\underbrace{(\textcolor{cyan}{\text{I love eating}})}_\text{prompt}$ _ _ _ _ _ _ _ _ _ _ _ _
-$\text{\; \; \; \; \; \; \; \; \; \; \; \; \; bagels with cream cheese}$
-$\text{\; \; \; \; \; \; \; \; \; \; \; \; \;my mother's butter chicken}$
-$\text{\; \; \; \; \; \; \; \; \; \; \; \; \;out with my friends}$
+$\text{bagels with cream cheese}$
+$\text{my mother's butter chicken}$
+$\text{out with my friends}$
 
 <hr>
 
