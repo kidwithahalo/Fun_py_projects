@@ -7,9 +7,9 @@ Large Language Model
 model made by using supervised learning (x -> y) to repeatedly predict the next word.
 For example , say 
 
-$\underbrace{(\textcolor{cyan}{\text{I love eating}})}_\text{prompt}$ _ _ _ _ _ _ _ _ _ _ _ _
-$\text{bagels with cream cheese}$
-$\text{my mother's butter chicken}$
+$\underbrace{(\textcolor{cyan}{\text{I love eating}})}_\text{prompt}$ _ _ _ _ _ _ _ _ _ _ _ _ <br>
+$\text{bagels with cream cheese}$ , <br>
+$\text{my mother's butter chicken}$ , <br>
 $\text{out with my friends}$
 
 <hr>
