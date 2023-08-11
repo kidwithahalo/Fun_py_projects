@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Building system with openAI API.iml" filepath="$PROJECT_DIR$/.idea/Building system with openAI API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../DP/DP Hackathon/codes_gpt/ChatGPT Prompt Engineering for Developers/.idea/ChatGPT Prompt Engineering for Developers.iml" filepath="$PROJECT_DIR$/../../../../../DP/DP Hackathon/codes_gpt/ChatGPT Prompt Engineering for Developers/.idea/ChatGPT Prompt Engineering for Developers.iml" />
     </modules>
   </component>
 </project>
