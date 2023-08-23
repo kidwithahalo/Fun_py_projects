@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/../ML_case_study/.idea/ML_case_study.iml" filepath="$PROJECT_DIR$/../ML_case_study/.idea/ML_case_study.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/grokking_ML.iml" filepath="$PROJECT_DIR$/.idea/grokking_ML.iml" />
-    </modules>
-  </component>
-</project>
